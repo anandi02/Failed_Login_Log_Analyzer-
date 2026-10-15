@@ -1,0 +1,14 @@
+===== FAILED LOGIN ANALYSIS =====
+Total failed logins: 8
+Total successful logins: 2
+Invalid or unrecognized lines: 0
+
+Failed attempts by IP:
+203.0.113.15: 5 failed attempts
+198.51.100.20: 2 failed attempts
+192.168.1.10: 1 failed attempts
+
+IPs flagged for repeated failures:
+REVIEW: 203.0.113.15 had 5 failed login attempts.
+
+Note: Repeated failures are suspicious indicators, not proof of an attack.
